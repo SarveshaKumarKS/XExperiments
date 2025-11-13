@@ -1,0 +1,5 @@
+mode,taste_keywords,aroma_keywords,texture_keywords,plain_english_summary
+0,"sweet, savory, tangy, umami","aroma, earthy, nutty, roasted","tender, crispy, creamy","sweet, savory taste, aroma, earthy aroma, tender texture"
+1,"savory, sweet, umami, spicy","aroma, earthy, nutty, toasty","tender, crispy, juicy","savory, sweet taste, aroma, earthy aroma, tender texture"
+2,"savory, umami, spicy, tangy","aroma, earthy, roasted, nutty","crispy, tender, juicy","savory, umami taste, aroma, earthy aroma, crispy texture"
+3,"tangy, sweet, savory, spicy","aroma, earthy, roasted, cumin","velvety, smooth, crispy","tangy, sweet taste, aroma, earthy aroma, velvety texture"

@@ -1,0 +1,87 @@
+taste:
+  sweet:
+  - brownie
+  - cake
+  - caramel
+  - chocolate
+  - honey
+  - lemonade
+  - milkshake
+  - sugar
+  - sweet
+  spicy:
+  - chili
+  - hot
+  - hotshot
+  - jalapeno
+  - pepper
+  - spicy
+  sour:
+  - lemon
+  - lime
+  - sour
+  - tamarind
+  - tangy
+  salty:
+  - chips
+  - fries
+  - salt
+  umami:
+  - beef
+  - burger
+  - cheese
+  - cheesesteak
+  - cheesy
+  - chicken
+  - fish
+  - gravy
+  - mushroom
+  - nuggets
+  - soy
+  bitter:
+  - coffee
+aroma:
+  garlic:
+  - garlic
+  - onion
+  buttery:
+  - butter
+  - creamy
+  - milk
+  smoky:
+  - bbq
+  - grilled
+  - smoked
+  - smoky
+  spiced:
+  - curry
+  - manchurian
+  - pepper
+  sweet_aroma:
+  - chocolate
+  - vanilla
+  citrus:
+  - lemon
+  - lime
+  - orange
+  - peach
+  - wildberry
+texture:
+  crispy:
+  - chips
+  - crispy
+  - fried
+  - fries
+  - nuggets
+  - rings
+  creamy:
+  - cheese
+  - creamy
+  - gravy
+  - milk
+  - sauce
+  soft:
+  - bread
+  - bun
+  - mashed
+  - soft

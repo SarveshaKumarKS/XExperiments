@@ -1,0 +1,14 @@
+Rows: 382
+XD dims: 15
+
+First 10 rows with positive dims:
+ - chicken shawarma spicy sauce => ['taste_spicy', 'taste_umami', 'texture_creamy']
+ - crispy fries => ['taste_salty', 'texture_crispy']
+ - chicken shawarma plate => ['taste_umami']
+ - falafel over rice plate => []
+ - spicy chicken with cheese cheese => ['taste_spicy', 'taste_umami', 'texture_creamy']
+ - onion rings => ['aroma_garlic', 'texture_crispy']
+ - spicy mccrispy mccrispy filet crinkle cut pickle shredded lettuce potato roll roma tomato slices spicy pepper sauce => ['taste_spicy', 'aroma_spiced', 'texture_creamy']
+ - fountain soda diet coke => []
+ - iced white chocolate mocha whole milk included shots venti cup whipped cream ice included white chocolate mocha sauce signature espresso roast milk => ['taste_sweet', 'aroma_buttery', 'aroma_sweet_aroma', 'texture_creamy']
+ - blackened ranch sauce => ['texture_creamy']

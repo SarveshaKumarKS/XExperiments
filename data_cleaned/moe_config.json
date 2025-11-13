@@ -1,0 +1,22 @@
+{
+  "vectorizer": {
+    "ngram_range": [
+      1,
+      1
+    ],
+    "min_df": 2,
+    "max_df": 0.95,
+    "max_features": 3000
+  },
+  "router": "lr",
+  "svd_dim": 32,
+  "pca_components": 4,
+  "clustering": {
+    "algo": "kmeans",
+    "k": 6,
+    "silhouette": 0.2570740541682289,
+    "homogeneity": 0.016369222481889226
+  },
+  "n_rows_input": 382,
+  "n_rows_used": 336
+}

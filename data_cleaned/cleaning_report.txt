@@ -1,0 +1,27 @@
+Project root        : /Users/sarveshaks/Documents/Documents - Sarvesha’s MacBook Pro (2)/Project Stea/project_x
+Input CSV           : /Users/sarveshaks/Documents/Documents - Sarvesha’s MacBook Pro (2)/Project Stea/project_x/data_raw/user_orders-0.csv
+Output CSV          : /Users/sarveshaks/Documents/Documents - Sarvesha’s MacBook Pro (2)/Project Stea/project_x/data_cleaned/user_orders_clean.csv
+Original shape      : (2463, 13)
+Final shape         : (382, 20)
+
+Column summary:
+ - city_name: 382 non-null
+ - restaurant_name: 382 non-null
+ - request_time_local: 382 non-null
+ - final_delivery_time_local: 340 non-null
+ - order_status: 382 non-null
+ - dish_name: 382 non-null
+ - item_quantity: 343 non-null
+ - customizations: 382 non-null
+ - customization_cost_local: 163 non-null
+ - special_instructions: 26 non-null
+ - item_price: 379 non-null
+ - order_price: 382 non-null
+ - currency: 382 non-null
+ - restaurant_tokens: 382 non-null
+ - dish_name_clean: 382 non-null
+ - customization_clean: 382 non-null
+ - dish_name_to_be_processed: 382 non-null
+ - dish_description: 0 non-null
+ - sugar_level: 0 non-null
+ - sodium_level: 0 non-null
